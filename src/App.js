@@ -10,7 +10,7 @@ var emojis = {
   "🤫": "Shushing",
   "😒": "Unamused",
   "😪": "Sleepy",
-  "🥶 ": "Cold",
+  "🥶": "Cold",
   "🥳": "Partying",
   "😲": "Astonished",
   "😣": "Persevering"
